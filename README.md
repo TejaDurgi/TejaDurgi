@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **IOS Development**
 
 - 💬 Ask me about **React**
 
