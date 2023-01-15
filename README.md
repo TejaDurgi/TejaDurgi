@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Teja Durgi</h1>
-# 💫 About Me:
+# 💫 About Me:<br><br>
 🔭 I’m currently working on Full Stack Projects<br><br>🌱 I’m currently learning IOS Development<br><br>💬 Ask me about React<br><br>📫 How to reach me tejadurgi@gmail.com<br><br>⚡ Fun fact I Have some "secret" talents to show you.<br><br>
 
 
